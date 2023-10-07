@@ -1,0 +1,3 @@
+Curso(id, descricao, data_criacao)
+Estudante(id, email, nome, data_criacao)
+Curso_Estudante(id_curso, id_estudante)
